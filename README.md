@@ -16,7 +16,9 @@
             <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" /> 
             <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
             <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
-            
+
+## Contato
+<a href="https://www.linkedin.com/in/igor-freitas-662844284/"> <img src="https://www.linkedin.com/in/igor-freitas-662844284"/>
           
             
             
