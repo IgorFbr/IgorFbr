@@ -1,16 +1,21 @@
-## Hi there 👋
+## Bom dia! Boa tarde! boa noite!
 
-<!--
-**IgorFbr/IgorFbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim!
+- 💻: sou um estudante de tecnologia, e um entusiasta no desenvolvimento de jogos
+- 🔎: a procura de uma oportunidade para aplicar os meus conhecimentos
+## 🧠 conhecimentos 
+- 🔒: cyber-segurança
+- 🤖: linguagens de back-end
+- 🎮: desenvolvimento de jogos na unreal engine
 
-Here are some ideas to get you started:
+## <div>🛠️ Tecnologias e Ferramentas utilizadas</div>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+ 
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+  
+
